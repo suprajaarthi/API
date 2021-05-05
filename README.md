@@ -15,6 +15,8 @@ Projects developed using api keys
 https://live-weather-forecast.netlify.app/
 
 <img src="https://github.com/suprajaarthi/API/blob/main/weather-api/ss1.jpeg">
+<br><br>
+<img src="https://github.com/suprajaarthi/API/blob/main/weather-api/ss5.jpeg">
 
 
 
