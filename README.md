@@ -1,6 +1,6 @@
 # API
-Projs developed using existing API keys 
 
+Projects developed using api keys
 
 https://mamas-recipe-book.netlify.app/
 
