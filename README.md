@@ -16,7 +16,9 @@ https://live-weather-forecast.netlify.app/
 
 <img src="https://github.com/suprajaarthi/API/blob/main/weather-api/ss1.jpeg">
 <br><br>
-<img src="https://github.com/suprajaarthi/API/blob/main/weather-api/ss5.jpeg">
+
+<img src="https://github.com/suprajaarthi/API/blob/main/weather-api/WhatsApp%20Image%202021-05-05%20at%2010.14.13%20PM.jpeg">
+<img src="https://github.com/suprajaarthi/API/blob/main/weather-api/WhatsApp%20Image%202021-05-05%20at%2010.14.24%20PM.jpeg">
 
 
 
