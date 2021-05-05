@@ -8,6 +8,7 @@ https://mamas-recipe-book.netlify.app/
 
 https://live-weather-forecast.netlify.app/
 
+<img src="https://github.com/suprajaarthi/API/blob/main/weather-api/ss1.jpeg">
 
 
 
