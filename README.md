@@ -6,6 +6,8 @@ Projects developed using api keys
 
 <img src="https://github.com/suprajaarthi/API/blob/main/Recipe%20api/SS1.jpeg">
 <br><br>
+
+<h1><b>WEATHER TRACKER </b></h1>
 <img src="https://github.com/suprajaarthi/API/blob/main/Recipe%20api/ss3.jpeg">
 
 <hr>
