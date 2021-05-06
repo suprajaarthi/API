@@ -2,10 +2,9 @@
 
 Websites developed using Real-time API keys
 <h1 style="text-align:center"><b> RECIPE BOOK </b></h1>
-                                  https://mamas-recipe-book.netlify.app/
-                                  
-                                  
 
+ https://mamas-recipe-book.netlify.app/
+                                  
 <img src="https://github.com/suprajaarthi/API/blob/main/Recipe%20api/SS1.jpeg">
 <br><br>
 
