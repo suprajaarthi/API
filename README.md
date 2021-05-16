@@ -5,7 +5,7 @@ Websites developed using Real-time API keys
 
  https://mamas-recipe-book.netlify.app/
                                   
-<img src="https://github.com/suprajaarthi/API/blob/main/Recipe%20api/SS1.jpeg">
+<img src="https://github.com/suprajaarthi/API/blob/main/Recipe%20api/cc.png">
 <br><br>
 
 <img src="https://github.com/suprajaarthi/API/blob/main/Recipe%20api/ss3.jpeg">
