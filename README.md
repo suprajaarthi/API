@@ -15,7 +15,7 @@ Websites developed using Real-time API keys
 
 https://live-weather-forecast.netlify.app/
 
-<img src="https://github.com/suprajaarthi/API/blob/main/weather-api/ss1.jpeg">
+![1621500079753](https://user-images.githubusercontent.com/51900501/118947778-4b441f80-b975-11eb-8ffb-3ca833b3aa3a.png)
 <br><br>
 
 <img src="https://github.com/suprajaarthi/API/blob/main/weather-api/Untitled%20presentation%20(1).png">
